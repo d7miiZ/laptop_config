@@ -1,0 +1,3 @@
+- Install https://github.com/PatrickF1/fzf.fish?tab=readme-ov-file
+- Install https://github.com/IlanCosman/tide
+- https://medium.com/@almatins/install-nerdfont-or-any-fonts-using-the-command-line-in-debian-or-other-linux-f3067918a88c (for Linux)
