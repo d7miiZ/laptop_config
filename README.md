@@ -7,4 +7,4 @@
 
 Maybe:
 
--Sketchybar?
+- Sketchybar?
